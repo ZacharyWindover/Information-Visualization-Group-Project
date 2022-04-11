@@ -1,0 +1,18 @@
+﻿Legend
+Long	Longitude (West - , degrees)
+Lat	Latitude (North + , degrees)
+Stn_Name	Station Name
+Clim_ID	Climate Identifier
+Prov	Province
+Tm	Mean Temperature (°C)
+D	Mean Temperature difference from Normal (1981-2010) (°C)
+Tx	Highest Monthly Maximum Temperature (°C)
+Tn	Lowest Monthly Minimum Temperature (°C)
+S	Snowfall (cm)
+S%N	Percent of Normal (1981-2010) Snowfall
+P	Total Precipitation (mm)
+P%N	Percent of Normal (1981-2010) Precipitation
+S_G	Snow on the ground at the end of the month (cm)
+Pd	Number of days with Precipitation 1.0 mm or more
+HDD	Degree Days below 18 °C
+CDD	Degree Days above 18 °C
